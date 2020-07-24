@@ -1,0 +1,10 @@
+.top-bar-header {
+    text-align: center;
+    width     : 100%;
+}
+
+@media only screen and (max-width: 375px) {
+    .top-bar-header {
+        position: fixed;
+    }
+}
