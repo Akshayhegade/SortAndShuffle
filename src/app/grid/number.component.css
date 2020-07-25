@@ -46,6 +46,11 @@
     border-bottom   : #2b8ead 2px solid;
 }
 
+button:focus {
+    outline   : 0;
+    box-shadow: 0 0 0 0.2rem rgb(114, 195, 220);
+}
+
 .row-num-1 {
     background-color: #6F98A8;
 }
